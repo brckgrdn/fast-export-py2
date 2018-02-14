@@ -11,7 +11,7 @@ SFX_MAPPING="mapping"
 SFX_HEADS="heads"
 SFX_STATE="state"
 QUIET=""
-PYTHON=${PYTHON:-python}
+PYTHON=${PYTHON:-python2}
 
 USAGE="[-r <repo>] -R <rev>"
 LONG_USAGE="Print SHA1s of latest changes per branch up to <rev> useful
